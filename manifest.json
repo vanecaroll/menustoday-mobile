@@ -1,0 +1,21 @@
+{
+  "name": "Menu's Today",
+  "short_name": "Menu's Today",
+  "background_color": "#d08841",
+  "theme_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "orientation": "any",
+  "scope": "/",
+  "start_url": "index.html",
+  "lang": "pt",
+  "categories": ["food"],
+  "icons":[{"purpose":"maskable",
+            "sizes":"512x512",
+            "src":"/assets/icons/icon512_maskable.png",
+            "type":"image/png"},
+  {"purpose":"any",
+  "sizes":"512x512",
+  "src":"/assets/icons/icon512_rounded.png",
+  "type":"image/png"}]
+}
